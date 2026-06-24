@@ -137,10 +137,4 @@ Contributions are welcome. Feel free to fork the repository and submit a pull re
 
 This project is open-source and available under the MIT License.
 
----
-
-## 👨‍💻 Author
-
-**Abhishek Negi**
-GitHub: https://github.com/Abhishek98negi
 
